@@ -8,10 +8,12 @@ from bs4 import BeautifulSoup
 import retrive_abstract
 import re
 
+#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
+
 # Set up the Google Scholar API endpoint and parameters
 base_url = "https://serpapi.com/search.json"
 YOUR_API_KEY = "a3210d9144d16801c3abe0ead3c722df14fa68a26b7312a2a69dd098b484dbf4"
-openai_api_key = "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"
+openai_api_key = "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" 
 GOOGLE_API_KEY = "a3210d9144d16801c3abe0ead3c722df14fa68a26b7312a2a69dd098b484dbf4"
 
 def get_user_choice(types):
