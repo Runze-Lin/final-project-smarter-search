@@ -1,0 +1,10 @@
+the original paper of the transformer   ->   Attention is all you need
+Technique for improving image recognition    ->   ImageNet Classification with Deep Convolutional Neural Networks
+Theory connecting black holes and quantum mechanics   ->   Black Holes and Thermodynamics
+Model for efficient communication protocols    ->   End-to-End Arguments in System Design
+Impact of non-traditional data in decision making    ->   Moneyball: The Art of Winning an Unfair Game 
+Groundbreaking work on generative adversarial networks (GANs) ->Generative Adversarial Nets
+Foundational work on reinforcement learning -> Reinforcement Learning: An Introduction
+Seminal paper on the PageRank algorithm  -> The PageRank Citation Ranking: Bringing Order to the Web
+Influential paper on the U-Net architecture for image segmentation -> U-Net: Convolutional Networks for Biomedical Image Segmentation
+The foundation paper of GPT -> Improving Language Understanding by Generative Pre-Training
